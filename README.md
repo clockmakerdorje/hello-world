@@ -1,5 +1,6 @@
 # hello-world
 Github tutorial repository
 
-Hello world!
-Not very original, eh?
+Hello World!
+Not very original, eh?  What's wrong with that?
+Okay, now I've changed something.
